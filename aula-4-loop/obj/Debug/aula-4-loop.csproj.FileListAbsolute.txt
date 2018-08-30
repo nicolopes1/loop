@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\obj\Debug\aula-4-loop.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\bin\Debug\aula-4-loop.exe.config
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\bin\Debug\aula-4-loop.exe
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\bin\Debug\aula-4-loop.pdb
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\obj\Debug\aula-4-loop.exe
+C:\Users\nicol\source\repos\aula-4-loop\aula-4-loop\obj\Debug\aula-4-loop.pdb
